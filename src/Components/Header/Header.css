@@ -1,0 +1,28 @@
+header{
+    box-sizing: border-box;
+    border: 1px solid rgb(228, 228, 218);
+    width: 100%;
+    height: 142px;
+    
+}
+.headerButton{
+    box-sizing: border-box;
+    margin:0 auto;
+    padding: 60px 20px;
+    border-radius: 90px;
+    border: 1px solid #a9ccca00;
+    background-color:  hsla(184, 80%, 10%, 0.227);
+    color: #ffffff;
+
+    &:hover{
+    background-color: #00000057;
+    }
+}
+.header.light {
+    background-color: #a9ccca;
+    color: #000000;
+    }
+    .header.dark {
+    background-color: #282630;
+    color: #ffffff;
+    }

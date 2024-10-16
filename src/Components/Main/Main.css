@@ -1,0 +1,18 @@
+@import '../Fonts/fonts.css';
+
+.Main_Test-page{
+    width: 900px;
+    height: 700px;
+    margin: 120px auto;
+}
+.Main-Test-page-head{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.Main-Test-page-head h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 50px;
+}

@@ -1,0 +1,82 @@
+@import '../Fonts/fonts.css';
+
+.Main-Test-page-body-input{
+    width: 500px;
+    height: 70px;
+    margin: 0 auto;
+    display: flex;
+}
+.Main-Test-page-body-input-button{
+    background-color: rgb(170, 197, 202);
+    border-radius: 0px 55px 55px 0px;
+    width: 20%;
+    padding: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.Main-Test-page-body-input-button:hover{
+    background-color: rgba(1, 18, 18, 0.176);
+}
+.Main-Test-page-body-input-text{
+    background-color: rgb(170, 197, 202);
+    border-radius: 55px 0px 0px 55px;
+    width: 100%;
+    padding: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.todo__options{
+    border: none;
+    margin-bottom: 10px;
+}
+.ChangingPages{
+    display: flex;
+    margin: 20px auto;
+}
+.ChangingPagesAll{
+    background-color: rgb(170, 197, 202);
+    border-radius: 55px 0px 0px 55px;
+    width: 33%;
+    height: 40px;
+    padding: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+.ChangingPagesNez{
+    background-color: rgb(170, 197, 202);
+    width: 33%;
+    padding: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+.ChangingPagesZav{
+    background-color: rgb(170, 197, 202);
+    border-radius: 0px 55px 55px 0px;
+    width: 33%;
+    padding: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+.ChangingPagesAll:hover,.ChangingPagesNez:hover,.ChangingPagesZav:hover{
+    background-color: rgba(1, 18, 18, 0.176);
+}

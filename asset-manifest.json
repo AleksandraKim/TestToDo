@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TestToDo/static/css/main.576430ce.css",
+    "main.js": "/TestToDo/static/js/main.aea10220.js",
+    "static/js/453.ed3810f9.chunk.js": "/TestToDo/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TestToDo/index.html",
+    "main.576430ce.css.map": "/TestToDo/static/css/main.576430ce.css.map",
+    "main.aea10220.js.map": "/TestToDo/static/js/main.aea10220.js.map",
+    "453.ed3810f9.chunk.js.map": "/TestToDo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576430ce.css",
+    "static/js/main.aea10220.js"
+  ]
+}
